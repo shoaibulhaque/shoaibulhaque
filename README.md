@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/agentshobi" target="blank"><img src="https://img.shields.io/twitter/follow/agentshobi?logo=twitter&style=for-the-badge" alt="agentshobi" /></a> </p>
 
-- 🌱 I’m currently learning **C and C++, Javascript**
+- 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **Python, Linux**
+- 💬 Ask me about **Python, Linux, Data Science**
 
 - 📫 How to reach me **haq4402067@cloud.neduet.edu.pk**
 
