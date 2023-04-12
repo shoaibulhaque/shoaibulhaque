@@ -14,7 +14,7 @@
 </p>
 
 <!-- About me section -->
-<p align="left">I'm a passionate Python developer currently learning TypeScript. I enjoy building projects and learning new things. Feel free to contact me if you have any questions or if you want to collaborate on a project!</p>
+<p align="left">I'm a passionate Python developer currently learning Datascience. I enjoy building projects and learning new things. Feel free to contact me if you have any questions or if you want to collaborate on a project!</p>
 
 <!-- Skills section -->
 <h3 align="left">Languages and Tools:</h3>
