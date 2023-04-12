@@ -35,6 +35,8 @@
 </p>
 
 <!-- Add a section for GitHub stats -->
-<br><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shoaibulhaque&count_private=true&show_icons=true&theme=dark" alt="GitHub stats">
-</p>
+![shoaibulhaque's Stats](https://github-readme-stats.vercel.app/api?username=shoaibulhaque&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![shoaibulhaque's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shoaibulhaque&theme=tokyonight&hide_border=true)
+
+![shoaibulhaque's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibulhaque&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
