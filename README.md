@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Shoaib Ul Haq 👋</h1>
 
 <!-- Subtitle -->
-<h3 align="center">Passionate Python Developer</h3>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=50D2F7&width=370&lines=Passionate+Python+Developer" alt="Typing SVG" /></a></p>
 
 <!-- Profile views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaibulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="shoaibulhaque" /> </p>
