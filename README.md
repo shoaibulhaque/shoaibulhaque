@@ -1,42 +1,46 @@
-<!-- Title -->
+<div align="center">
+  <img height="150" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shoaibulhaque.shoaibulhaque&"  />
+</div>
+
+###
+
 <h1 align="center">Hi, I'm Shoaib Ul Haq 👋</h1>
 
-<!-- Subtitle -->
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=50D2F7&width=370&lines=Passionate+Python+Developer" alt="Typing SVG" /></a></p>
+###
 
-<!-- Profile views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaibulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="shoaibulhaque" /> </p>
+<h3 align="left">👩‍💻  About Me</h3>
 
-<!-- Contact information -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/agentshobi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agentshobi" height="30" width="40" /></a>
-</p>
+###
 
-<!-- About me section -->
-<p align="left">I'm a passionate Python developer currently learning Datascience. I enjoy building projects and learning new things. Feel free to contact me if you have any questions or if you want to collaborate on a project!</p>
+<p align="left">Greetings! I'm a passionate Python developer with a keen interest in both data science and web development. My journey of exploration also extends to the captivating field of robotics, where I strive to create innovative and practical solutions.<br><br>I find immense joy in building projects that challenge me to learn new things and push the boundaries of my knowledge. The dynamic nature of data science, the creativity involved in web development, and the endless possibilities in robotics inspire me to continually improve my skills.<br><br>If you have any questions or seek a like-minded collaborator for your project, don't hesitate to get in touch with me. I am always eager to engage in meaningful projects and expand my horizons through collaborative endeavors. Let's join forces and make a positive impact together!</p>
 
-<!-- Skills section -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-Google Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-</p>
+###
 
-<!-- Add a section for GitHub stats -->
-![shoaibulhaque's Stats](https://github-readme-stats.vercel.app/api?username=shoaibulhaque&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<div align="left">
+</div>
 
-![shoaibulhaque's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shoaibulhaque&theme=tokyonight&hide_border=true)
+###
 
-![shoaibulhaque's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibulhaque&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shoaibulhaque&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
