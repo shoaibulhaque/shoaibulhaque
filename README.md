@@ -26,12 +26,25 @@
 
 ###
 
-<p align="left">Greetings! I'm a passionate Python developer with a keen interest in both data science and web development. My journey of exploration also extends to the captivating field of robotics, where I strive to create innovative and practical solutions.<br><br>I find immense joy in building projects that challenge me to learn new things and push the boundaries of my knowledge. The dynamic nature of data science, the creativity involved in web development, and the endless possibilities in robotics inspire me to continually improve my skills.<br><br>If you have any questions or seek a like-minded collaborator for your project, don't hesitate to get in touch with me. I am always eager to engage in meaningful projects and expand my horizons through collaborative endeavors. Let's join forces and make a positive impact together!</p>
+<p align="left">Greetings! I'm a passionate Python developer with a keen interest in both data science and web development. My journey of exploration also extends to the captivating field of robotics, where I strive to create innovative and practical solutions.<br><br>I find immense joy in building projects that challenge me to learn new things and push the boundaries of my knowledge. The dynamic nature of data science, the creativity involved in web development, and the endless possibilities in robotics inspire me to continually improve my skills.<br><br>If you have any questions or seek a like-minded collaborator for your project, don't hesitate to get in touch with me. I am always eager to engage in meaningful projects and expand my horizons through collaborative endeavors. Let's join forces and make a positive impact together!</p><br>
 
 ###
 
-<div align="left">
-</div>
+<div align="center">
+
+<h3 align="center">🔥   Skills :</h3>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=23262A" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=474A4B" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=383A3B" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282C2D" alt="React" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=4D4F50" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=414445" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=202122" alt="Express.js" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=424445" alt="MongoDB" />
+
+</div><br>
+
 
 ###
 
