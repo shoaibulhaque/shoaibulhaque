@@ -4,7 +4,6 @@
 
 <div align="center">
 <img src="https://img.shields.io/static/v1?message=Coding%20wizard&logo=Harry-Potter&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Cartoon wizard coding"/>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=shoaibulhaque.shoaibulhaque&"  />
 
 </div>
 
