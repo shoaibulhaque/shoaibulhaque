@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" height="170" alt="header image">
-</div>
 
 <br><div align="center">
 <img src="https://img.shields.io/static/v1?message=Coding%20wizard&logo=Harry-Potter&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Cartoon wizard coding"/>
