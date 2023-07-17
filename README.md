@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" height="200" alt="header image">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" height="170" alt="header image">
 </div>
 
 <br><div align="center">
