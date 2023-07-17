@@ -1,20 +1,17 @@
 <div align="center">
-  <img height="150" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif"  />
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" height="200" alt="header image">
+</div>
+
+<br><div align="center">
+<img src="https://img.shields.io/static/v1?message=Coding%20wizard&logo=Harry-Potter&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Cartoon wizard coding"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=shoaibulhaque.shoaibulhaque&"  />
+
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-</div>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shoaibulhaque.shoaibulhaque&"  />
-</div>
 
 ###
 
@@ -22,41 +19,44 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Greetings! I'm a passionate Python developer with a keen interest in both data science and web development. My journey of exploration also extends to the captivating field of robotics, where I strive to create innovative and practical solutions.<br><br>I find immense joy in building projects that challenge me to learn new things and push the boundaries of my knowledge. The dynamic nature of data science, the creativity involved in web development, and the endless possibilities in robotics inspire me to continually improve my skills.<br><br>If you have any questions or seek a like-minded collaborator for your project, don't hesitate to get in touch with me. I am always eager to engage in meaningful projects and expand my horizons through collaborative endeavors. Let's join forces and make a positive impact together!</p><br>
+<table> <tr> <td> <h3 align="left">👩‍💻 About Me</h3>
+<p align="left"></b>I'm a Python developer passionate about data science, web development, and robotics. I love taking on projects that let me learn new skills. The dynamic nature of data science, the creativity of web dev, and the possibilities in robotics inspire me. Let's collaborate on meaningful projects and make a positive impact!</b></p><br> </td> <td width="250"> <div align="center"> <img height="150" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" /> </div> </td> </tr> </table><br>
 
 ###
 
 <div align="center">
 
-<h3 align="center">🔥   Skills :</h3>
+<h3 align="left">🔥   Skills :</h3><br><br>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=23262A" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=474A4B" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=383A3B" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282C2D" alt="React" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=4D4F50" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=414445" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=202122" alt="Express.js" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=424445" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=362C2E" alt="Python" />
+<img src="https://skillicons.dev/icons?i=html" alt="html" width="36" height="36"/>
 
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=111213" alt="Django" /> 
+<img src="https://skillicons.dev/icons?i=css" alt="css" width="36" height="36"/>
 
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=252627" alt="NumPy" />
+<img src="https://skillicons.dev/icons?i=js" alt="javascript" width="36" height="36"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=252626" alt="Pandas" />
+<img src="https://skillicons.dev/icons?i=react" alt="react" width="36" height="36"/>
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=282929" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white&labelColor=252627" alt="ROS" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=29292A" alt="Linux" />
+<img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="36" height="36"/> 
 
-<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=2B2C2C" alt="Shell Script" />
+<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="36" height="36"/>
 
-</div><br>
+<img src="https://skillicons.dev/icons?i=express" alt="express" width="36" height="36"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="36" height="36"/>
+
+<img src="https://skillicons.dev/icons?i=python" alt="python" width="36" height="36"/>
+
+<img src="https://skillicons.dev/icons?i=django" alt="django" width="36" height="36"/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="36" height="36"/>
+
+<img src="https://skillicons.dev/icons?i=ros" alt="ros" width="36" height="36"/>
+
+<img src="https://skillicons.dev/icons?i=linux" alt="linux" width="36" height="36"/>
+
+<img src="https://skillicons.dev/icons?i=bash" alt="bash" width="36" height="36"/>
+
+</div><br><br>
 
 
 ###
