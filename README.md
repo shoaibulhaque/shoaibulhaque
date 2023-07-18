@@ -14,7 +14,7 @@
 ###
 
 <table> <tr> <td> <h3 align="left">👩‍💻 About Me</h3>
-<p align="left"></b>I'm a Python developer passionate about data science, web development, and robotics. I love taking on projects that let me learn new skills. The dynamic nature of data science, the creativity of web dev, and the possibilities in robotics inspire me. Let's collaborate on meaningful projects and make a positive impact!</b></p><br> </td> <td width="250"> <div align="center"> <img height="150" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" /> </div> </td> </tr> </table><br>
+<p align="left"></b>Passionate about data science, web development, and robotics. I love taking on projects that let me learn new skills. The dynamic nature of data science, the creativity of web dev, and the possibilities in robotics inspire me. Let's collaborate on meaningful projects and make a positive impact!</b></p><br> </td> <td width="250"> <div align="center"> <img height="150" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" /> </div> </td> </tr> </table><br>
 
 ###
 
@@ -62,4 +62,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=shoaibulhaque&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-Hle
