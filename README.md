@@ -9,10 +9,7 @@
 
 ###
 
-
-###
-
-<h1 align="center">Hi, I'm Shoaib Ul Haq 👋</h1>
+<h1 align="center"> Hi, I'm Shoaib Ul Haq 👋</h1>
 
 ###
 
@@ -23,7 +20,7 @@
 
 <div align="center">
 
-<h3 align="left">🔥   Skills :</h3><br><br>
+<h3 align="left">Skills 🔥 </h3><br><br>
 
 <img src="https://skillicons.dev/icons?i=html" alt="html" width="36" height="36"/>
 
@@ -65,5 +62,4 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=shoaibulhaque&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
+Hle
