@@ -10,8 +10,6 @@
 ###
 
 
-
-
 ###
 
 <h1 align="center">Hi, I'm Shoaib Ul Haq 👋</h1>
