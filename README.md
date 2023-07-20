@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<h3 align="left">Skills 🔥 </h3><br><br>
+<h3 align="left">Skills 🔥:</h3><br><br>
 
 <img src="https://skillicons.dev/icons?i=html" alt="html" width="36" height="36"/>
 
