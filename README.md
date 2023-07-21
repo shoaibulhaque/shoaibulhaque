@@ -56,9 +56,14 @@
 ###
 
 <h3 align="left">My Stats 🔥:</h3>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=shoaibulhaque&show_icons=true&theme=dark" alt="shoaibulhaque's github stats" />
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibulhaque&theme=dark" alt="shoaibulhaque's github streak stats" />
+</td>
+</tr>
+</table>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=shoaibulhaque&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
