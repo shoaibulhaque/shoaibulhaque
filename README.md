@@ -52,14 +52,3 @@
 
 </div><br><br>
 
-
-###
-
-<h3 align="left">My Stats 🔥:</h3>
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=shoaibulhaque&show_icons=true&theme=dark" alt="shoaibulhaque's github stats" />
-</td>
-</tr>
-</table>
