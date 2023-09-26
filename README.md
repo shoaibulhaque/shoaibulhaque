@@ -61,9 +61,5 @@
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=shoaibulhaque&show_icons=true&theme=dark" alt="shoaibulhaque's github stats" />
 </td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibulhaque&theme=dark" alt="shoaibulhaque's github streak stats" />
-</td>
 </tr>
 </table>
-
