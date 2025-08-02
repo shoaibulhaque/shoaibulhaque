@@ -58,22 +58,6 @@
 
 </div><br><br>
 
-###
-
-<h2 align="center">📊 GitHub Stats & Analytics</h2>
-
-<div align="center">
-  
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=shoaibulhaque&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibulhaque&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Most Used Languages" />
-</td>
-</tr>
-</table>
 
 ### 📊 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibulhaque&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFA500&area=true&hide_border=true" alt="Contribution Graph" />
