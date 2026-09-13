@@ -30,22 +30,22 @@ I’m particularly interested in how systems behave beyond implementation: compo
 ## `01 / areas of focus`
 
 **Backend Engineering**  
-API and domain design, authentication and authorization, multi-tenant SaaS architecture, payments, webhooks, integrations, real-time communication, and asynchronous workloads.
+API and domain design, authentication and authorization, multi-tenant architecture, payments, webhooks, integrations, real-time communication, and asynchronous workloads.
 
 **Cloud & Platform Engineering**  
-Linux, networking, DNS/TLS, containers, reverse proxies, AWS, CI/CD, observability, deployment architecture, and production reliability.
+Networking, DNS/TLS, containerized workloads, reverse proxies, cloud infrastructure, CI/CD, observability, deployment architecture, and production reliability.
 
 **AI Engineering**  
 Model APIs, retrieval and RAG, agentic workflows, tool integration, orchestration, and AI capabilities embedded into production applications.
 
 **Product Engineering**  
-React, Next.js, TypeScript, responsive interfaces, and design-system work that support complete end-to-end product delivery.
+Responsive interfaces, component architecture, design systems, and end-to-end product delivery across frontend and backend boundaries.
 
 <br>
 
 ## `02 / technical stack`
 
-<sub><b>LANGUAGES</b></sub>
+<sub><b>LANGUAGES & RUNTIMES</b></sub>
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" height="38" alt="Python" title="Python" />&nbsp;&nbsp;
@@ -54,8 +54,6 @@ React, Next.js, TypeScript, responsive interfaces, and design-system work that s
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="38" height="38" alt="Bash" title="Bash" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="38" height="38" alt="Node.js" title="Node.js" />
 </p>
-
-`Python` · `TypeScript` · `JavaScript` · `Bash` · `Node.js`
 
 <br>
 
@@ -69,8 +67,6 @@ React, Next.js, TypeScript, responsive interfaces, and design-system work that s
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="38" height="38" alt="Postman" title="Postman" />
 </p>
 
-`Django` · `Django REST Framework` · `Django Channels` · `FastAPI` · `Flask` · `Express` · `Celery` · `Postman`
-
 <br>
 
 <sub><b>DATA & ASYNCHRONOUS PROCESSING</b></sub>
@@ -81,8 +77,6 @@ React, Next.js, TypeScript, responsive interfaces, and design-system work that s
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="38" height="38" alt="MySQL" title="MySQL" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="38" height="38" alt="MongoDB" title="MongoDB" />
 </p>
-
-`PostgreSQL` · `Redis` · `MySQL` · `MongoDB` · `queues` · `background workers` · `event-driven workflows`
 
 <br>
 
@@ -98,15 +92,13 @@ React, Next.js, TypeScript, responsive interfaces, and design-system work that s
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="38" height="38" alt="GitHub Actions" title="GitHub Actions" />
 </p>
 
-`AWS` · `Docker` · `Linux` · `Nginx` · `Cloudflare` · `Git` · `GitHub Actions` · `CI/CD` · `DNS` · `TLS`
-
 <br>
 
 <sub><b>FRONTEND & PRODUCT</b></sub>
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38" height="38" alt="React" title="React" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="38" height="38" alt="Next.js" title="Next.js" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/111827/F3F4F6" width="38" height="38" alt="Next.js" title="Next.js" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="38" height="38" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="38" height="38" alt="Bootstrap" title="Bootstrap" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="38" height="38" alt="HTML5" title="HTML5" />&nbsp;&nbsp;
@@ -114,29 +106,28 @@ React, Next.js, TypeScript, responsive interfaces, and design-system work that s
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="38" height="38" alt="Figma" title="Figma" />
 </p>
 
-`React` · `Next.js` · `Tailwind CSS` · `Bootstrap` · `HTML` · `CSS` · `Figma` · `responsive UI` · `design systems`
-
 <br>
 
-<sub><b>AI & AUTOMATION</b></sub>
+<sub><b>AI, AGENTS & CODING TOOLS</b></sub>
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="38" height="38" alt="TensorFlow" title="TensorFlow" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" height="38" alt="Python" title="Python for AI" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="38" height="38" alt="ROS" title="ROS" />
+  <img src="https://github.com/openai.png?size=80" width="40" height="40" alt="OpenAI / Codex" title="OpenAI / Codex" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/claude" width="40" height="40" alt="Claude" title="Claude" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/claudecode" width="40" height="40" alt="Claude Code" title="Claude Code" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini" width="40" height="40" alt="Google Gemini" title="Google Gemini" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/111827/F3F4F6" width="40" height="40" alt="LangChain" title="LangChain" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langgraph/111827/F3F4F6" width="40" height="40" alt="LangGraph" title="LangGraph" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/crewai" width="40" height="40" alt="CrewAI" title="CrewAI" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface" width="40" height="40" alt="Hugging Face" title="Hugging Face" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ollama/111827/F3F4F6" width="40" height="40" alt="Ollama" title="Ollama" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cursor/111827/F3F4F6" width="40" height="40" alt="Cursor" title="Cursor" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cline" width="40" height="40" alt="Cline" title="Cline" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/opencode/111827/F3F4F6" width="40" height="40" alt="OpenCode" title="OpenCode" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/githubcopilot/111827/F3F4F6" width="40" height="40" alt="GitHub Copilot" title="GitHub Copilot" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openrouter" width="40" height="40" alt="OpenRouter" title="OpenRouter" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" title="TensorFlow" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="40" height="40" alt="ROS" title="ROS" />
 </p>
-
-`TensorFlow` · `LangChain` · `LLM APIs` · `retrieval` · `RAG` · `agentic workflows` · `tool use` · `automation` · `ROS`
-
-<br>
-
-<details>
-<summary><strong>Additional tools & workflow</strong></summary>
-<br>
-
-`pnpm` · `npm` · `GitHub` · `Docker Compose` · `REST APIs` · `webhooks` · `background jobs` · `third-party integrations` · `payment integrations`
-
-</details>
 
 <br>
 
@@ -145,7 +136,7 @@ React, Next.js, TypeScript, responsive interfaces, and design-system work that s
 **Systems engineering**
 
 ```text
-networking & Linux
+networking & operating systems
         ↓
 containers & cloud infrastructure
         ↓
