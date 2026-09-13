@@ -6,8 +6,6 @@
 
 <br>
 
-<p align="center"><img src="./assets/mascot.svg" width="150" alt="Custom systems engineer cat mascot" /></p>
-
 **Software Engineer** with a **Computer Systems Engineering** background, focused on backend systems, cloud infrastructure, distributed workloads, and production AI. My work spans application architecture, data and asynchronous processing, integrations, deployment, observability, and reliability.
 
 I’m especially interested in the boundary between application code and the systems that keep software dependable in production: clear architecture, deliberate failure handling, operational visibility, and scaling based on real requirements.
