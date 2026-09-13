@@ -1,67 +1,113 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/shoaibulhaque/shoaibulhaque/main/PhotoRoom-20230608_232131.png" height="300"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img src="./assets/hero-light.svg" alt="Systems, end to end — backend, cloud, systems and AI engineering" width="100%">
+</picture>
 
-<div align="center">
-<img src="https://img.shields.io/static/v1?message=Coding%20wizard&logo=Harry-Potter&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Cartoon wizard coding"/>
-</div>
+<br>
 
-###
+I’m a **Software Engineer** with a **Computer Systems Engineering** background. I like building software end-to-end, but I’m most interested in the machinery underneath the interface: **backend systems, infrastructure, networking, distributed workloads, production reliability, and AI engineering**.
 
-<h1 align="center"> Hi, I'm Shoaib Ul Haq 👋</h1>
+I prefer learning a system all the way down — not only *how to use it*, but **why it works, how it fails, how to observe it, and what changes when it scales**.
 
-###
+<br>
 
-<table> 
-<tr> 
-<td> 
-<h3 align="left">👩‍💻 About Me</h3>
-<p align="left"><b>Passionate about data science, web development, and robotics. I love taking on projects that let me learn new skills. The dynamic nature of data science, the creativity of web dev, and the possibilities in robotics inspire me. Let's collaborate on meaningful projects and make a positive impact!</b></p><br> 
-</td> 
-<td width="250"> 
-<div align="center"> 
-<img height="150" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" /> 
-</div> 
-</td> 
-</tr> 
-</table><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/system-path-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/system-path-light.svg">
+  <img src="./assets/system-path-light.svg" alt="Request to edge to application to data to async workloads to cloud to observability" width="100%">
+</picture>
 
-###
+<br>
 
-<div align="center">
-<h3 align="left">Skills 🔥:</h3><br><br>
+## `01 / focus`
 
-<img src="https://skillicons.dev/icons?i=html" alt="html" width="36" height="36"/>
-<img src="https://skillicons.dev/icons?i=css" alt="css" width="36" height="36"/>
-<img src="https://skillicons.dev/icons?i=js" alt="javascript" width="36" height="36"/>
-<img src="https://skillicons.dev/icons?i=react" alt="react" width="36" height="36"/>
-<img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="36" height="36"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="36" height="36"/> 
-<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="36" height="36"/>
-<img src="https://skillicons.dev/icons?i=express" alt="express" width="36" height="36"/>
-<img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="36" height="36"/>
-<img src="https://skillicons.dev/icons?i=python" alt="python" width="36" height="36"/>
-<img src="https://skillicons.dev/icons?i=django" alt="django" width="36" height="36"/>
-<img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="36" height="36"/>
-<img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="36" height="36"/>
-<img src="https://skillicons.dev/icons?i=docker" alt="docker" width="36" height="36"/>
-<img src="https://skillicons.dev/icons?i=ros" alt="ros" width="36" height="36"/>
-<img src="https://skillicons.dev/icons?i=linux" alt="linux" width="36" height="36"/>
-<img src="https://skillicons.dev/icons?i=bash" alt="bash" width="36" height="36"/>
-<img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="36" height="36"/>
-<img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="36" height="36"/>
-<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="36" height="36"/>
-<img src="https://skillicons.dev/icons?i=figma" alt="figma" width="36" height="36"/>
-<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="36" height="36"/>
-<img src="https://skillicons.dev/icons?i=flask" alt="flask" width="36" height="36"/>
+**Backend**  
+APIs, domain design, authentication, multi-tenant systems, payments, integrations, queues and background workloads.
 
+**Systems & cloud**  
+Linux, networking, DNS/TLS, containers, reverse proxies, AWS, delivery pipelines, observability and production architecture.
 
-</div><br><br>
+**AI engineering**  
+Model APIs, retrieval, RAG, agents, tool use and automation connected to real software systems.
 
+**Product engineering**  
+Enough React / Next.js / TypeScript to take systems from backend architecture to a usable product.
 
-### 📊 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibulhaque&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFA500&area=true&hide_border=true" alt="Contribution Graph" />
+<br>
 
-</div>
+## `02 / stack`
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="Django" title="Django" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" title="FastAPI" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" title="Redis" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="40" alt="AWS" title="AWS" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" title="React" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions" title="GitHub Actions" />
+</p>
+
+`Python` · `Django` · `FastAPI` · `PostgreSQL` · `Redis` · `Docker` · `Linux` · `AWS` · `TypeScript` · `React` · `Git` · `GitHub Actions`
+
+<details>
+<summary><strong>More tools I've worked with</strong></summary>
+<br>
+
+`Next.js` · `Node.js` · `Express` · `MongoDB` · `MySQL` · `Flask` · `Tailwind CSS` · `TensorFlow` · `ROS` · `Figma`
+
+</details>
+
+<br>
+
+## `03 / now`
+
+```text
+networking & internet fundamentals
+            ↓
+linux & systems
+            ↓
+containers → orchestration
+            ↓
+cloud & production engineering
+            ↓
+distributed systems & architecture
+```
+
+Alongside that track:
+
+```text
+model APIs → retrieval → RAG → agentic RAG → production AI systems
+```
+
+<br>
+
+## `04 / how I think`
+
+> Build the feature. Understand the mechanism. Observe the system. Study the failure. Then scale what actually needs scaling.
+
+I’m interested in software that has to work **beyond the demo** — under real traffic, real infrastructure, real integrations and real constraints.
+
+<br>
 
 ---
+
+<p align="center">
+  <sub><b>backend / cloud / systems / ai</b></sub>
+</p>
