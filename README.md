@@ -45,88 +45,99 @@ Responsive interfaces, component architecture, design systems, and end-to-end pr
 
 ## `02 / technical stack`
 
-<sub><b>LANGUAGES & RUNTIMES</b></sub>
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" height="38" alt="Python" title="Python" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="38" height="38" alt="Bash" title="Bash" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="38" height="38" alt="Node.js" title="Node.js" />
+<p align="center"><sub><b>LANGUAGES & RUNTIMES</b></sub></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" title="Bash" />
 </p>
 
 <br>
 
-<sub><b>BACKEND</b></sub>
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="38" height="38" alt="Django" title="Django" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="38" height="38" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="38" height="38" alt="Flask" title="Flask" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="38" height="38" alt="Express" title="Express" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="38" height="38" alt="Postman" title="Postman" />
+<p align="center"><sub><b>BACKEND</b></sub></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="Django" title="Django" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/flask/111827/F3F4F6" width="40" height="40" alt="Flask" title="Flask" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/111827/F3F4F6" width="40" height="40" alt="Express" title="Express" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/celery" width="40" height="40" alt="Celery" title="Celery" />
 </p>
 
 <br>
 
-<sub><b>DATA & ASYNCHRONOUS PROCESSING</b></sub>
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="38" height="38" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="38" height="38" alt="Redis" title="Redis" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="38" height="38" alt="MySQL" title="MySQL" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="38" height="38" alt="MongoDB" title="MongoDB" />
+<p align="center"><sub><b>DATA & ASYNCHRONOUS PROCESSING</b></sub></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" title="Redis" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" title="MySQL" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB" />
 </p>
 
 <br>
 
-<sub><b>INFRASTRUCTURE & DELIVERY</b></sub>
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="44" height="38" alt="AWS" title="AWS" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="38" height="38" alt="Docker" title="Docker" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="38" height="38" alt="Linux" title="Linux" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="38" height="38" alt="Nginx" title="Nginx" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" width="38" height="38" alt="Cloudflare" title="Cloudflare" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="38" height="38" alt="Git" title="Git" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="38" height="38" alt="GitHub Actions" title="GitHub Actions" />
+<p align="center"><sub><b>CLOUD & INFRASTRUCTURE</b></sub></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="44" height="40" alt="AWS" title="AWS" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx" title="Nginx" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" width="40" height="40" alt="Cloudflare" title="Cloudflare" />
 </p>
 
 <br>
 
-<sub><b>FRONTEND & PRODUCT</b></sub>
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38" height="38" alt="React" title="React" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs/111827/F3F4F6" width="38" height="38" alt="Next.js" title="Next.js" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="38" height="38" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="38" height="38" alt="Bootstrap" title="Bootstrap" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="38" height="38" alt="HTML5" title="HTML5" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38" height="38" alt="CSS3" title="CSS3" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="38" height="38" alt="Figma" title="Figma" />
+<p align="center"><sub><b>FRONTEND & PRODUCT</b></sub></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" title="React" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/111827/F3F4F6" width="40" height="40" alt="Next.js" title="Next.js" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" title="Bootstrap" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3" />
 </p>
 
 <br>
 
-<sub><b>AI, AGENTS & CODING TOOLS</b></sub>
+<p align="center"><sub><b>AI, LLMs & AGENTS</b></sub></p>
+<p align="center">
+  <img src="https://github.com/openai.png?size=80" width="40" height="40" alt="Codex" title="Codex" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini" width="40" height="40" alt="Gemini" title="Gemini" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/111827/F3F4F6" width="40" height="40" alt="LangChain" title="LangChain" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langgraph/111827/F3F4F6" width="40" height="40" alt="LangGraph" title="LangGraph" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/crewai" width="40" height="40" alt="CrewAI" title="CrewAI" />
+</p>
 
-<p>
-  <img src="https://github.com/openai.png?size=80" width="40" height="40" alt="OpenAI / Codex" title="OpenAI / Codex" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/claude" width="40" height="40" alt="Claude" title="Claude" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/claudecode" width="40" height="40" alt="Claude Code" title="Claude Code" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlegemini" width="40" height="40" alt="Google Gemini" title="Google Gemini" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/langchain/111827/F3F4F6" width="40" height="40" alt="LangChain" title="LangChain" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/langgraph/111827/F3F4F6" width="40" height="40" alt="LangGraph" title="LangGraph" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/crewai" width="40" height="40" alt="CrewAI" title="CrewAI" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/huggingface" width="40" height="40" alt="Hugging Face" title="Hugging Face" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/ollama/111827/F3F4F6" width="40" height="40" alt="Ollama" title="Ollama" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cursor/111827/F3F4F6" width="40" height="40" alt="Cursor" title="Cursor" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cline" width="40" height="40" alt="Cline" title="Cline" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/opencode/111827/F3F4F6" width="40" height="40" alt="OpenCode" title="OpenCode" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/githubcopilot/111827/F3F4F6" width="40" height="40" alt="GitHub Copilot" title="GitHub Copilot" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/openrouter" width="40" height="40" alt="OpenRouter" title="OpenRouter" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" title="TensorFlow" />&nbsp;&nbsp;
+<br>
+
+<p align="center"><sub><b>AI CODING TOOLS</b></sub></p>
+<p align="center">
+  <img src="https://github.com/openai.png?size=80" width="40" height="40" alt="Codex" title="Codex" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/claudecode" width="40" height="40" alt="Claude Code" title="Claude Code" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cursor/111827/F3F4F6" width="40" height="40" alt="Cursor" title="Cursor" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cline" width="40" height="40" alt="Cline" title="Cline" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/opencode/111827/F3F4F6" width="40" height="40" alt="OpenCode" title="OpenCode" />
+</p>
+
+<br>
+
+<p align="center"><sub><b>ML & ROBOTICS</b></sub></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" title="TensorFlow" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="40" height="40" alt="ROS" title="ROS" />
+</p>
+
+<br>
+
+<p align="center"><sub><b>TOOLING & WORKFLOW</b></sub></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions" title="GitHub Actions" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" title="Postman" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" title="Figma" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pnpm/pnpm-original.svg" width="40" height="40" alt="pnpm" title="pnpm" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="46" height="40" alt="npm" title="npm" />
 </p>
 
 <br>
