@@ -102,7 +102,6 @@ Responsive interfaces, component architecture, design systems, and end-to-end pr
 
 <p align="center"><sub><b>AI, LLMs & AGENTS</b></sub></p>
 <p align="center">
-  <img src="https://github.com/openai.png?size=80" width="40" height="40" alt="Codex" title="Codex" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/googlegemini" width="40" height="40" alt="Gemini" title="Gemini" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/langchain/111827/F3F4F6" width="40" height="40" alt="LangChain" title="LangChain" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/langgraph/111827/F3F4F6" width="40" height="40" alt="LangGraph" title="LangGraph" />&nbsp;&nbsp;&nbsp;
