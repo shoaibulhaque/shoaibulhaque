@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img src="./assets/hero-light.svg" alt="Systems, end to end — backend, cloud, systems and AI engineering" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./hero-light.svg">
+  <img src="./hero-light.svg" alt="Systems, end to end — backend, cloud, systems and AI engineering" width="100%">
 </picture>
 
 <br>
@@ -13,9 +13,9 @@ I prefer learning a system all the way down — not only *how to use it*, but **
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/system-path-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/system-path-light.svg">
-  <img src="./assets/system-path-light.svg" alt="Request to edge to application to data to async workloads to cloud to observability" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./system-path-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./system-path-light.svg">
+  <img src="./system-path-light.svg" alt="Request to edge to application to data to async workloads to cloud to observability" width="100%">
 </picture>
 
 <br>
