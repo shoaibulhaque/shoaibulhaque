@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Systems, end to end</title>
-  <desc id="desc">A minimal abstract banner for backend, cloud, systems and AI engineering.</desc>
+  <title id="title">Software systems engineering</title>
+  <desc id="desc">A minimal abstract banner for backend engineering, cloud infrastructure, distributed systems and AI.</desc>
 
   <defs>
     <clipPath id="right-zone"><rect x="720" y="0" width="480" height="360" rx="28"/></clipPath>
@@ -15,12 +15,12 @@
   <rect x="1" y="1" width="1198" height="358" rx="27" fill="none" stroke="#E5E7EB"/>
 
   <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
-    <text x="64" y="78" fill="#0369A1" font-size="13" font-weight="700" letter-spacing="2.8">BACKEND / CLOUD / SYSTEMS / AI</text>
-    <text x="64" y="164" fill="#111827" font-size="50" font-weight="700" letter-spacing="0.4">SYSTEMS, END TO END.</text>
-    <text x="66" y="212" fill="#4B5563" font-size="19" font-weight="400">from request → runtime → reliability</text>
+    <text x="64" y="78" fill="#0369A1" font-size="13" font-weight="700" letter-spacing="2.8">SOFTWARE SYSTEMS ENGINEERING</text>
+    <text x="64" y="158" fill="#111827" font-size="45" font-weight="700" letter-spacing="0.3">BACKEND · CLOUD · AI</text>
+    <text x="66" y="205" fill="#4B5563" font-size="18" font-weight="400">architecture, infrastructure, reliability, scale</text>
 
-    <line x1="66" y1="258" x2="530" y2="258" stroke="#E5E7EB"/>
-    <text x="66" y="297" fill="#6B7280" font-size="12" font-weight="700" letter-spacing="1.8">BUILD · TRACE · OBSERVE · SCALE</text>
+    <line x1="66" y1="252" x2="548" y2="252" stroke="#E5E7EB"/>
+    <text x="66" y="293" fill="#6B7280" font-size="12" font-weight="700" letter-spacing="1.6">DESIGN · OPERATE · OBSERVE · EVOLVE</text>
   </g>
 
   <g clip-path="url(#right-zone)">
