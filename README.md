@@ -40,17 +40,28 @@ End-to-end delivery across backend and frontend boundaries, component architectu
 
 ## `02 / technical ecosystem`
 
-<p align="center"><sub><b>CORE & BACKEND</b></sub></p>
+<p align="center"><sub><b>LANGUAGES & RUNTIMES</b></sub></p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" title="Bash" />
+</p>
+
+<br>
+
+<p align="center"><sub><b>BACKEND & DATA</b></sub></p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="Django" title="Django" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/flask/64748B" width="40" height="40" alt="Flask" title="Flask" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/64748B" width="40" height="40" alt="Express" title="Express" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/celery/37814A" width="40" height="40" alt="Celery" title="Celery" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" title="Redis" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" title="Redis" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" title="MySQL" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB" />
 </p>
 
 <br>
@@ -62,8 +73,7 @@ End-to-end delivery across backend and frontend boundaries, component architectu
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx" title="Nginx" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" width="40" height="40" alt="Cloudflare" title="Cloudflare" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions" title="GitHub Actions" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions" title="GitHub Actions" />
 </p>
 
 <br>
@@ -72,8 +82,19 @@ End-to-end delivery across backend and frontend boundaries, component architectu
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" title="React" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/nextdotjs/64748B" width="40" height="40" alt="Next.js" title="Next.js" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" width="40" height="40" alt="Astro" title="Astro" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" title="Figma" />
+</p>
+
+<br>
+
+<p align="center"><sub><b>DEVELOPER WORKFLOW</b></sub></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" title="Postman" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pnpm/pnpm-original.svg" width="40" height="40" alt="pnpm" title="pnpm" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="46" height="40" alt="npm" title="npm" />
 </p>
 
 <br>
