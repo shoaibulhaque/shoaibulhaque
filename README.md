@@ -1,21 +1,21 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./hero-light.svg">
-  <img src="./hero-light.svg" alt="Systems, end to end — backend, cloud, systems and AI engineering" width="100%">
+  <img src="./hero-light.svg" alt="Software systems engineering across backend, cloud, distributed systems and AI" width="100%">
 </picture>
 
 <p align="center">
-  <code>backend systems</code>&nbsp;&nbsp;
-  <code>cloud & infrastructure</code>&nbsp;&nbsp;
-  <code>distributed workloads</code>&nbsp;&nbsp;
+  <code>backend engineering</code>&nbsp;&nbsp;
+  <code>cloud infrastructure</code>&nbsp;&nbsp;
+  <code>distributed systems</code>&nbsp;&nbsp;
   <code>AI engineering</code>
 </p>
 
 <br>
 
-I’m a **Software Engineer** with a **Computer Systems Engineering** background. I like building software end-to-end, but I’m most interested in the machinery underneath the interface — the backend, runtime, network, data layer, infrastructure and operational decisions that make software hold up in production.
+I’m a **Software Engineer** with a background in **Computer Systems Engineering**, focused on backend platforms, cloud infrastructure, distributed systems, and applied AI. My work spans API design, data and asynchronous processing, infrastructure, deployment, and production reliability.
 
-I prefer learning systems all the way down: not only **how to use something**, but **why it works, how it fails, how to observe it, and what changes when it scales**.
+I’m particularly interested in how systems behave beyond implementation: component boundaries, failure modes, observability, scalability, and the architectural trade-offs required to operate software reliably in production.
 
 <br>
 
@@ -27,25 +27,25 @@ I prefer learning systems all the way down: not only **how to use something**, b
 
 <br>
 
-## `01 / focus`
+## `01 / areas of focus`
 
-**Backend systems**  
-APIs, domain modeling, authentication and authorization, multi-tenant systems, payments, webhooks, integrations, queues, background workloads and real-time application flows.
+**Backend Engineering**  
+API and domain design, authentication and authorization, multi-tenant SaaS architecture, payments, webhooks, integrations, real-time communication, and asynchronous workloads.
 
-**Cloud & systems**  
-Linux, networking, DNS/TLS, containers, reverse proxies, AWS, delivery pipelines, observability, deployment architecture and production reliability.
+**Cloud & Platform Engineering**  
+Linux, networking, DNS/TLS, containers, reverse proxies, AWS, CI/CD, observability, deployment architecture, and production reliability.
 
-**AI engineering**  
-Model APIs, retrieval, RAG, agents, tool use, orchestration and automation connected to real software systems rather than isolated demos.
+**AI Engineering**  
+Model APIs, retrieval and RAG, agentic workflows, tool integration, orchestration, and AI capabilities embedded into production applications.
 
-**Product engineering**  
-Enough frontend and design-system work to take a system from architecture and APIs to a usable, responsive product.
+**Product Engineering**  
+React, Next.js, TypeScript, responsive interfaces, and design-system work that support complete end-to-end product delivery.
 
 <br>
 
-## `02 / technology map`
+## `02 / technical stack`
 
-<sub><b>LANGUAGES & RUNTIME</b></sub>
+<sub><b>LANGUAGES</b></sub>
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" height="38" alt="Python" title="Python" />&nbsp;&nbsp;
@@ -59,7 +59,7 @@ Enough frontend and design-system work to take a system from architecture and AP
 
 <br>
 
-<sub><b>BACKEND & APPLICATION</b></sub>
+<sub><b>BACKEND</b></sub>
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="38" height="38" alt="Django" title="Django" />&nbsp;&nbsp;
@@ -73,7 +73,7 @@ Enough frontend and design-system work to take a system from architecture and AP
 
 <br>
 
-<sub><b>DATA, CACHE & ASYNC</b></sub>
+<sub><b>DATA & ASYNCHRONOUS PROCESSING</b></sub>
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="38" height="38" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
@@ -82,11 +82,11 @@ Enough frontend and design-system work to take a system from architecture and AP
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="38" height="38" alt="MongoDB" title="MongoDB" />
 </p>
 
-`PostgreSQL` · `Redis` · `MySQL` · `MongoDB` · `queues` · `background workers` · `event-driven flows`
+`PostgreSQL` · `Redis` · `MySQL` · `MongoDB` · `queues` · `background workers` · `event-driven workflows`
 
 <br>
 
-<sub><b>CLOUD, DELIVERY & SYSTEMS</b></sub>
+<sub><b>INFRASTRUCTURE & DELIVERY</b></sub>
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="44" height="38" alt="AWS" title="AWS" />&nbsp;&nbsp;
@@ -102,7 +102,7 @@ Enough frontend and design-system work to take a system from architecture and AP
 
 <br>
 
-<sub><b>WEB & PRODUCT</b></sub>
+<sub><b>FRONTEND & PRODUCT</b></sub>
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38" height="38" alt="React" title="React" />&nbsp;&nbsp;
@@ -118,7 +118,7 @@ Enough frontend and design-system work to take a system from architecture and AP
 
 <br>
 
-<sub><b>AI, DATA & AUTOMATION</b></sub>
+<sub><b>AI & AUTOMATION</b></sub>
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="38" height="38" alt="TensorFlow" title="TensorFlow" />&nbsp;&nbsp;
@@ -126,12 +126,12 @@ Enough frontend and design-system work to take a system from architecture and AP
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="38" height="38" alt="ROS" title="ROS" />
 </p>
 
-`TensorFlow` · `LangChain` · `LLM APIs` · `retrieval` · `RAG` · `agents` · `tool use` · `automation` · `ROS`
+`TensorFlow` · `LangChain` · `LLM APIs` · `retrieval` · `RAG` · `agentic workflows` · `tool use` · `automation` · `ROS`
 
 <br>
 
 <details>
-<summary><strong>More tools & workflow</strong></summary>
+<summary><strong>Additional tools & workflow</strong></summary>
 <br>
 
 `pnpm` · `npm` · `GitHub` · `Docker Compose` · `REST APIs` · `webhooks` · `background jobs` · `third-party integrations` · `payment integrations`
@@ -140,48 +140,48 @@ Enough frontend and design-system work to take a system from architecture and AP
 
 <br>
 
-## `03 / current vector`
+## `03 / current development focus`
+
+**Systems engineering**
 
 ```text
-internet / networking
+networking & Linux
         ↓
-linux / systems
+containers & cloud infrastructure
         ↓
-backend / data / async
+distributed systems & asynchronous processing
         ↓
-containers / cloud / delivery
+observability & reliability
         ↓
-distributed systems / observability
-        ↓
-architecture / reliability / scale
+system architecture
 ```
 
-Alongside it:
+**AI engineering**
 
 ```text
-model APIs → retrieval → RAG → agentic RAG → production AI systems
+model APIs → retrieval → RAG → agentic systems → production AI
 ```
 
 <br>
 
-## `04 / operating principles`
+## `04 / engineering approach`
 
-`mechanism > magic`  
-Understand what sits underneath the abstraction.
+**System understanding**  
+Understand the underlying model, constraints, and trade-offs rather than relying only on framework-level abstractions.
 
-`evidence > guessing`  
-Logs, metrics, traces and reproducible behavior before assumptions.
+**Operability**  
+Design with observability, diagnosability, failure recovery, and maintainability in mind.
 
-`reliability > demo`  
-A feature is not really finished just because the happy path works once.
+**Pragmatic architecture**  
+Choose patterns based on requirements and operational cost, and avoid unnecessary complexity before it is justified.
 
-`architecture > accidental complexity`  
-Design for change, isolate responsibilities, and scale only what actually needs scaling.
+**End-to-end ownership**  
+Connect product requirements with backend design, infrastructure, delivery, and production behavior.
 
 <br>
 
 ---
 
 <p align="center">
-  <sub><b>build → trace → observe → improve → scale</b></sub>
+  <sub><b>backend engineering · cloud infrastructure · distributed systems · AI engineering</b></sub>
 </p>
