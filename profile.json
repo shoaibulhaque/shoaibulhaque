@@ -1,0 +1,117 @@
+{
+  "name": "Shoaib ul Haq",
+  "role": "Software engineer",
+  "location": "Karachi, Pakistan",
+  "headline": [
+    "Building scalable,",
+    "human-centric software."
+  ],
+  "highlight": "software.",
+  "about": [
+    "I'm a software engineer with a Computer Systems Engineering background. I mostly work on the backend: APIs, data models, background jobs, and the infrastructure they run on. Lately that includes LLM features inside real applications.",
+    "I like systems that are easy to reason about: clear boundaries, failures handled on purpose, and enough logging and metrics to know what is going on."
+  ],
+  "now": [
+    {
+      "name": "steer",
+      "status": "not public yet",
+      "text": "A skill that gives coding agents a senior engineer's process: plan first, build in small checked steps, prove it works.",
+      "command": "/steer fix the login bug",
+      "url": ""
+    }
+  ],
+  "featured": [
+    "ai-journalist",
+    "clarityhealth-ai",
+    "crewai-next",
+    "CodeSense"
+  ],
+  "stack": [
+    {
+      "area": "Languages",
+      "items": [
+        "Python",
+        "TypeScript",
+        "JavaScript",
+        "Go",
+        "Java",
+        "Bash"
+      ]
+    },
+    {
+      "area": "Backend",
+      "items": [
+        "Django",
+        "FastAPI",
+        "Flask",
+        "Node.js",
+        "Express",
+        "Celery"
+      ]
+    },
+    {
+      "area": "Data",
+      "items": [
+        "PostgreSQL",
+        "Redis",
+        "MySQL",
+        "MongoDB"
+      ]
+    },
+    {
+      "area": "Cloud & ops",
+      "items": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "Linux",
+        "Nginx",
+        "Cloudflare",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "area": "Frontend",
+      "items": [
+        "React",
+        "Next.js",
+        "Astro",
+        "Vite",
+        "Tailwind CSS",
+        "Figma"
+      ]
+    },
+    {
+      "area": "AI & ML",
+      "items": [
+        "LangChain",
+        "LangGraph",
+        "Gemini",
+        "TensorFlow",
+        "scikit-learn"
+      ]
+    },
+    {
+      "area": "Daily tools",
+      "items": [
+        "Git",
+        "Postman",
+        "pnpm",
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ]
+    }
+  ],
+  "recent": {
+    "count": 5,
+    "exclude": [
+      "shoaibulhaque"
+    ]
+  },
+  "links": {
+    "LinkedIn": "https://www.linkedin.com/in/shoaib-ul-haq-021376267/",
+    "Email": "mailto:shoaibulhaqq@outlook.com"
+  }
+}

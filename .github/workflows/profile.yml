@@ -1,0 +1,43 @@
+name: profile
+
+# Rebuilds README.md and the hero image from profile.json and live GitHub data.
+on:
+  push:
+    branches: [main]
+    paths: [profile.json, scripts/**, fonts/**, assets/icons/**, .github/workflows/profile.yml]
+  schedule:
+    - cron: "17 3 * * *" # every day at 03:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install font tools
+        run: pip install fonttools brotli
+      - name: Build the profile
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/build.py
+      - name: Commit changes, if any
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md assets/generated
+            git commit -m "chore(profile): refresh from profile.json and GitHub data"
+            git push
+          else
+            echo "No changes."
+          fi
