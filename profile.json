@@ -20,6 +20,7 @@
       "url": ""
     }
   ],
+  "show_projects": false,
   "featured": [
     "ai-journalist",
     "clarityhealth-ai",

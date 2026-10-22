@@ -6,6 +6,8 @@
 2. Commit and push. The `profile` workflow runs `scripts/build.py`. The script reads `profile.json` and live GitHub data, then rewrites `README.md` and the images in `assets/generated/`.
 3. The `profile` workflow also runs every day, so stars, dates, descriptions, and "Recently active" stay current.
 
+Set `"show_projects": false` in `profile.json` to hide both "Selected projects" and "Recently active". Set it to `true` to show them again using the saved project settings.
+
 To build on your own computer:
 
 ```bash

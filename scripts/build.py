@@ -411,7 +411,8 @@ def readme(repos, by_name):
         for i, item in enumerate(DATA["now"]):
             out.append(picture(f"now-{i}", f'{item["name"]}: {item["text"]}', link=item.get("url") or None))
             out.append("")
-    cards = [by_name[name] for name in DATA["featured"] if name in by_name]
+    show_projects = DATA.get("show_projects", True)
+    cards = [by_name[name] for name in DATA["featured"] if name in by_name] if show_projects else []
     if cards:
         out += ["### Selected projects", "", '<p align="center">']
         for r in cards:
@@ -419,7 +420,7 @@ def readme(repos, by_name):
         out += ["</p>", ""]
     out += ["### Stack", "", picture("stack", "Stack: " + "; ".join(f'{g["area"]}: {", ".join(g["items"])}' for g in DATA["stack"])), ""]
     exclude = set(DATA["recent"].get("exclude", [])) | set(DATA["featured"])
-    recent = [r for r in repos if r["name"] not in exclude][: DATA["recent"].get("count", 5)]
+    recent = [r for r in repos if r["name"] not in exclude][: DATA["recent"].get("count", 5)] if show_projects else []
     if recent:
         out += ["### Recently active", ""]
         for r in recent:

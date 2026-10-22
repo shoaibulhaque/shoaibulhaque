@@ -12,25 +12,8 @@ I like systems that are easy to reason about: clear boundaries, failures handled
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/generated/now-0-dark.svg"><img alt="steer: A skill that gives coding agents a senior engineer's process: plan first, build in small checked steps, prove it works." src="./assets/generated/now-0-light.svg" width="100%"></picture>
 
-### Selected projects
-
-<p align="center">
-  <a href="https://github.com/shoaibulhaque/ai-journalist"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/generated/project-ai-journalist-dark.svg"><img alt="ai-journalist" src="./assets/generated/project-ai-journalist-light.svg" width="49%"></picture></a>
-  <a href="https://github.com/shoaibulhaque/clarityhealth-ai"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/generated/project-clarityhealth-ai-dark.svg"><img alt="clarityhealth-ai" src="./assets/generated/project-clarityhealth-ai-light.svg" width="49%"></picture></a>
-  <a href="https://github.com/shoaibulhaque/crewai-next"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/generated/project-crewai-next-dark.svg"><img alt="crewai-next" src="./assets/generated/project-crewai-next-light.svg" width="49%"></picture></a>
-  <a href="https://github.com/shoaibulhaque/CodeSense"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/generated/project-codesense-dark.svg"><img alt="CodeSense" src="./assets/generated/project-codesense-light.svg" width="49%"></picture></a>
-</p>
-
 ### Stack
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/generated/stack-dark.svg"><img alt="Stack: Languages: Python, TypeScript, JavaScript, Go, Java, Bash; Backend: Django, FastAPI, Flask, Node.js, Express, Celery; Data: PostgreSQL, Redis, MySQL, MongoDB; Cloud &amp; ops: AWS, Docker, Kubernetes, Terraform, Linux, Nginx, Cloudflare, GitHub Actions; Frontend: React, Next.js, Astro, Vite, Tailwind CSS, Figma; AI &amp; ML: LangChain, LangGraph, Gemini, TensorFlow, scikit-learn; Daily tools: Git, Postman, pnpm, Claude Code, Codex, Cursor" src="./assets/generated/stack-light.svg" width="100%"></picture>
-
-### Recently active
-
-- [**NoteNest**](https://github.com/shoaibulhaque/NoteNest) · A full-stack MERN note-taking application with rate limiting · <sub>Oct 2026</sub>
-- [**CheatSheets**](https://github.com/shoaibulhaque/CheatSheets) · This repository contains cheat sheets for various programming languages. Use these cheat... · <sub>Oct 2026</sub>
-- [**taskmate-ai**](https://github.com/shoaibulhaque/taskmate-ai) · AI-powered MERN productivity app with real-time tasks, JWT auth, and smart assistant. · <sub>Jul 2025</sub>
-- [**py-dockai**](https://github.com/shoaibulhaque/py-dockai) · <sub>Jul 2025</sub>
-- [**Full_stack**](https://github.com/shoaibulhaque/Full_stack) · <sub>Sep 2024</sub>
 
 <sub>This page rebuilds itself from <code>profile.json</code> and the GitHub API.</sub>
