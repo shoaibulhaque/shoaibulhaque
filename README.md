@@ -27,8 +27,8 @@ I like systems that are easy to reason about: clear boundaries, failures handled
 
 ### Recently active
 
+- [**NoteNest**](https://github.com/shoaibulhaque/NoteNest) · A full-stack MERN note-taking application with rate limiting · <sub>Oct 2026</sub>
 - [**CheatSheets**](https://github.com/shoaibulhaque/CheatSheets) · This repository contains cheat sheets for various programming languages. Use these cheat... · <sub>Oct 2026</sub>
-- [**NoteNest**](https://github.com/shoaibulhaque/NoteNest) · A full-stack MERN note-taking application with rate limiting · <sub>Jul 2025</sub>
 - [**taskmate-ai**](https://github.com/shoaibulhaque/taskmate-ai) · AI-powered MERN productivity app with real-time tasks, JWT auth, and smart assistant. · <sub>Jul 2025</sub>
 - [**py-dockai**](https://github.com/shoaibulhaque/py-dockai) · <sub>Jul 2025</sub>
 - [**Full_stack**](https://github.com/shoaibulhaque/Full_stack) · <sub>Sep 2024</sub>
